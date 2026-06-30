@@ -123,7 +123,7 @@ This repository includes interchangeable script modules optimized for various op
 ## 👥 Contributors
 
 *   **Mohammed Zahi** - [mohammedzahi08@gmail.com](mailto:mohammedzahi08@gmail.com)
-*   **Mupped Rasmil**
+*   **Muhammed Rasmil**
 *   **Muhammed Afsal**
 
 ---
